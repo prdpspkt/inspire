@@ -1,0 +1,20 @@
+{
+    "name": "deepti/inspire",
+    "description": "Shows inspiring quote on visit.",
+    "type": "libarary",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prdpspkt\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pradeep Sapkota"
+        }
+    ],
+    "minimum-stability": "stable"
+}
