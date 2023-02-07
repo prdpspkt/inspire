@@ -1,5 +1,5 @@
 {
-    "name": "deepti/inspire",
+    "name": "prdpspkt/inspire",
     "description": "Shows inspiring quote on visit.",
     "type": "libarary",
     "require": {
@@ -15,6 +15,5 @@
         {
             "name": "Pradeep Sapkota"
         }
-    ],
-    "minimum-stability": "stable"
+    ]
 }
