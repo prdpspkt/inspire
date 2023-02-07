@@ -15,5 +15,6 @@
         {
             "name": "Pradeep Sapkota"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
